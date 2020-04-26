@@ -1,2 +1,2 @@
 # DTMF-BASED-ROBOT
-Dual tone mod
+Dual tone multi frequency
